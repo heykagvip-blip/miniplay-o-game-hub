@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/miniplay-o-game-hub/', // <-- Thay thế thành tên repository chính xác của bạn ở đây
+    base: './miniplay-o-game-hub/', // <-- Thay thế thành tên repository chính xác của bạn ở đây
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
