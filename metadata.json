@@ -1,0 +1,6 @@
+{
+  "name": "MiniPlay – Offline Game Hub",
+  "description": "Kho mini game offline giải trí nhẹ nhàng, chơi ngay trên trình duyệt không cần Internet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
